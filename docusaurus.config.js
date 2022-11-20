@@ -63,7 +63,7 @@ const config = {
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Fireant-Security',
             label: 'GitHub',
             position: 'right',
           },
@@ -107,12 +107,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Fireant-Security',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Fireant Information, Inc.&nbsp;&nbsp;&nbsp;&mdash;&nbsp;&nbsp;&nbsp;<a href="http://beian.miit.gov.cn" rel="noopener external nofollow noreferrer" target="_blank" class="exturl">桂ICP备2022009539号-1</a>`,
       },
       prism: {
         theme: lightCodeTheme,
